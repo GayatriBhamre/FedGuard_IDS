@@ -1,0 +1,13 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Node (if React frontend exists)
+node_modules/
